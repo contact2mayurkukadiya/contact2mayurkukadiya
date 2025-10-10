@@ -23,11 +23,3 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
 
 ---
 [![](https://visitcount.itsvg.in/api?id=contact2mayurkukadiya&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<button onclick="sayHello()"> Hello </button>
-
-<script>
-    function sayHello() {
-        window.alert("Hello Mayur Kukadiya");
-    }
-    </script>
