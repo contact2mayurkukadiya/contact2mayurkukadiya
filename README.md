@@ -14,59 +14,6 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
 
 
 ## ⚙️ Tools and Technologies:
-<style>
-    /* General table styling for a clean look */
-    .tech-table {
-        width: 500px;
-        margin: 20px 0;
-        font-family: sans-serif;
-        border: none;
-    }
-
-    .tech-table tr {
-        border: none;
-    }
-    
-    /* Styling for the table cells containing icons */
-    .tech-table td {
-        padding: 0px 3px;
-        margin: 0px;
-        border: none;
-    }
-
-    /* The core icon styling */
-    .icon {
-        /* 1. Set a uniform size for all icons and maintain aspect ratio */
-        width: 50px;
-        height: 50px;
-        object-fit: contain; 
-        border-radius: 10px;
-        overflow: hidden;
-
-        /* 2. Set the default state: grayscale and scaled down */
-        transform: translateY(3px) scale(0.8);
-        filter: grayscale(1);
-        opacity: 0.3;
-        
-        /* 3. Define the transition for entering the hover state (0s delay) */
-        transition: transform 0.1s ease-out, filter 0.1s ease-out, opacity 0.1s ease-out;
-        transition-delay: 0s;
-    }
-
-    /* The hover state with a "pop" effect */
-    .icon:hover {
-        transform: scale(1.1); 
-        filter: grayscale(0);
-        opacity: 1;
-        transition-delay: 0s; /* Ensure instant reaction on hover */
-    }
-
-    /* 4. Define the transition for exiting the hover state (5s delay) */
-    .icon {
-      transition: transform 0.1s ease-out 5s, filter 0.1s ease-out 5s, opacity 0.1s ease-out 5s;
-      
-    }
-</style>
 
 <table class="tech-table" border="1">
   <!-- Icons are sorted by category and flow across the grid -->
@@ -79,13 +26,14 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
     <td><a href="https://www.typescriptlang.org"><img src="./assets/tech/ts.svg" alt="TypeScript" class="icon"/></a></td>
     <td><img src="./assets/tech/svg.svg" alt="SVG" class="icon"/></td>
     <!-- Frontend -->
-    <td><a href="https://angular.dev"><img src="./assets/tech/animated/angular-v3.svg" alt="Angular"/></a></td>
+    <td><a href="https://angular.dev"><img src="./assets/tech/angular.svg" alt="Angular" class="icon"/></a></td>
     <td><img src="./assets/tech/react.svg" alt="React" class="icon"/></td>
     <td><img src="./assets/tech/ionic.png" alt="Ionic" class="icon"/></td>
   </tr>
   <tr>
     <!-- Frontend (continued) -->
     <td><img src="./assets/tech/ant-design.svg" alt="Ant Design" class="icon"/></td>
+    <td><img src="./assets/tech/daisyUi.svg" alt="DaisyUI" class="icon"/></td>
     <td><img src="./assets/tech/devexpress.png" alt="DevExpress" class="icon"/></td>
     <td><img src="./assets/tech/kendo.png" alt="Kendo UI" class="icon"/></td>
     <td><img src="./assets/tech/bootstrap.svg" alt="Bootstrap" class="icon"/></td>
