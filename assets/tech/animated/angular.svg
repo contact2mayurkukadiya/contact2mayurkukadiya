@@ -26,6 +26,6 @@
 
   <a href="https://angular.dev" target="_blank">
     <image class="icon" x="0" y="0" width="65" height="65" 
-           href="../angular.svg" clip-path="url(#rounded-corners)"/>
+           href="https://raw.githubusercontent.com/contact2mayurkukadiya/contact2mayurkukadiya/Master/assets/tech/angular.svg" clip-path="url(#rounded-corners)"/>
   </a>
 </svg>
