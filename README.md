@@ -73,7 +73,7 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
   - cellspacing="10" adds space between cells.
   - cellpadding="5" adds padding inside cells.
 -->
-<table border="0" cellspacing="10" cellpadding="5">
+<table border="0" cellspacing="10" cellpadding="5" width="100%">
   <!-- 
     - valign="bottom" aligns the content of all cells in this row to the bottom,
       ensuring the text labels share the same baseline.
