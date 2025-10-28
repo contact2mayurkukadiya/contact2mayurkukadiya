@@ -79,14 +79,13 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
     <td><a href="https://www.typescriptlang.org"><img src="./assets/tech/ts.svg" alt="TypeScript" class="icon"/></a></td>
     <td><img src="./assets/tech/svg.svg" alt="SVG" class="icon"/></td>
     <!-- Frontend -->
-    <td><a href="https://angular.dev"><img src="./assets/tech/angular.svg" alt="Angular" class="icon"/></a></td>
+    <td><a href="https://angular.dev"><img src="./assets/tech/animated/angular.svg" alt="Angular"/></a></td>
     <td><img src="./assets/tech/react.svg" alt="React" class="icon"/></td>
     <td><img src="./assets/tech/ionic.png" alt="Ionic" class="icon"/></td>
   </tr>
   <tr>
     <!-- Frontend (continued) -->
     <td><img src="./assets/tech/ant-design.svg" alt="Ant Design" class="icon"/></td>
-    <td><img src="./assets/tech/daisyUi.svg" alt="DaisyUI" class="icon"/></td>
     <td><img src="./assets/tech/devexpress.png" alt="DevExpress" class="icon"/></td>
     <td><img src="./assets/tech/kendo.png" alt="Kendo UI" class="icon"/></td>
     <td><img src="./assets/tech/bootstrap.svg" alt="Bootstrap" class="icon"/></td>
