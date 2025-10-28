@@ -1,25 +1,190 @@
-# 💫 About Me:
+[![Mayur's GitHub Banner](./assets/header.png)](https://mayur-kukadiya.lovable.app)
+
+Hey there 👋
+
 As a problem-solver with 7 years in the IT field, I specialize in building end-to-end solutions. My technical toolkit includes Angular, Node.js, NestJS, and a suite of AWS services. I have a proven track record of integrating payment gateways like Stripe and PayPal, leveraging analytics, and building everything from custom libraries to complex microservice-based systems.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code.box.official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurkukadiya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@contact2mayurkukadiya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7511904) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Contact2Mayur) 
+[![Instagram](./assets/instagram.svg)](https://instagram.com/code.box.official) 
+[![LinkedIn](./assets/linkedin.svg)](https://linkedin.com/in/mayurkukadiya) 
+[![Medium](./assets/medium.svg)](https://medium.com/@@contact2mayurkukadiya) 
+[![Stack Overflow](./assets/stackoverflow.svg)](https://stackoverflow.com/users/7511904) 
+[![YouTube](./assets/youtube.svg)](https://youtube.com/@Contact2Mayur) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
+
+## ⚙️ Tools and Technologies:
+<style>
+    /* General table styling for a clean look */
+    .tech-table {
+        width: 500px;
+        margin: 20px 0;
+        font-family: sans-serif;
+        border: none;
+    }
+
+    .tech-table tr {
+        border: none;
+    }
+    
+    /* Styling for the table cells containing icons */
+    .tech-table td {
+        padding: 0px 3px;
+        margin: 0px;
+        border: none;
+    }
+
+    /* The core icon styling */
+    .icon {
+        /* 1. Set a uniform size for all icons and maintain aspect ratio */
+        width: 50px;
+        height: 50px;
+        object-fit: contain; 
+        border-radius: 10px;
+        overflow: hidden;
+
+        /* 2. Set the default state: grayscale and scaled down */
+        transform: translateY(3px) scale(0.8);
+        filter: grayscale(1);
+        opacity: 0.3;
+        
+        /* 3. Define the transition for entering the hover state (0s delay) */
+        transition: transform 0.1s ease-out, filter 0.1s ease-out, opacity 0.1s ease-out;
+        transition-delay: 0s;
+    }
+
+    /* The hover state with a "pop" effect */
+    .icon:hover {
+        transform: scale(1.1); 
+        filter: grayscale(0);
+        opacity: 1;
+        transition-delay: 0s; /* Ensure instant reaction on hover */
+    }
+
+    /* 4. Define the transition for exiting the hover state (5s delay) */
+    .icon {
+      transition: transform 0.1s ease-out 5s, filter 0.1s ease-out 5s, opacity 0.1s ease-out 5s;
+      
+    }
+</style>
+
+<table class="tech-table" border="1">
+  <!-- Icons are sorted by category and flow across the grid -->
+  <tr>
+    <!-- Languages -->
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/tech/css.svg" alt="CSS" class="icon"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/tech/html.svg" alt="HTML" class="icon"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/tech/js.svg" alt="JavaScript" class="icon"/></a></td>
+    <td><a href="https://www.python.org"><img src="./assets/tech/python.svg" alt="Python" class="icon"/></a></td>
+    <td><a href="https://www.typescriptlang.org"><img src="./assets/tech/ts.svg" alt="TypeScript" class="icon"/></a></td>
+    <td><img src="./assets/tech/svg.svg" alt="SVG" class="icon"/></td>
+    <!-- Frontend -->
+    <td><a href="https://angular.dev"><img src="./assets/tech/angular.svg" alt="Angular" class="icon"/></a></td>
+    <td><img src="./assets/tech/react.svg" alt="React" class="icon"/></td>
+    <td><img src="./assets/tech/ionic.png" alt="Ionic" class="icon"/></td>
+  </tr>
+  <tr>
+    <!-- Frontend (continued) -->
+    <td><img src="./assets/tech/ant-design.svg" alt="Ant Design" class="icon"/></td>
+    <td><img src="./assets/tech/daisyUi.svg" alt="DaisyUI" class="icon"/></td>
+    <td><img src="./assets/tech/devexpress.png" alt="DevExpress" class="icon"/></td>
+    <td><img src="./assets/tech/kendo.png" alt="Kendo UI" class="icon"/></td>
+    <td><img src="./assets/tech/bootstrap.svg" alt="Bootstrap" class="icon"/></td>
+    <td><img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" class="icon"/></td>
+    <td><img src="./assets/tech/jquery.svg" alt="jQuery" class="icon"/></td>
+    <td><img src="./assets/tech/rxjs.jpg" alt="RxJS" class="icon"/></td>
+    <td><img src="./assets/tech/p5js.svg" alt="p5.js" class="icon"/></td>
+  </tr>
+  <tr>
+    <!-- Frontend (continued) -->
+    <td><img src="./assets/tech/chartjs.png" alt="Chart.js" class="icon"/></td>
+    <td><img src="./assets/tech/threejs.svg" alt="Three.js" class="icon"/></td>
+    <!-- Backend -->
+    <td><img src="./assets/tech/nodejs.svg" alt="Node.js" class="icon"/></td>
+    <td><img src="./assets/tech/nestJS.svg" alt="NestJS" class="icon"/></td>
+    <td><img src="./assets/tech/express.svg" alt="Express" class="icon"/></td>
+    <td><img src="./assets/tech/automapper.svg" alt="AutoMapper" class="icon"/></td>
+    <td><img src="./assets/tech/ejs.jpg" alt="EJS" class="icon"/></td>
+    <td><img src="./assets/tech/validation.svg" alt="FluentValidation" class="icon"/></td>
+    <td><img src="./assets/tech/nodemon.png" alt="Nodemon" class="icon"/></td>
+  </tr>
+  <tr>
+    <!-- Backend (continued) -->
+    <td><img src="./assets/tech/socketio.png" alt="Socket.io" class="icon"/></td>
+    <!-- Databases & Caching -->
+    <td><img src="./assets/tech/mongodb.svg" alt="MongoDB" class="icon"/></td>
+    <td><img src="./assets/tech/mysql.svg" alt="MySQL" class="icon"/></td>
+    <td><img src="./assets/tech/postgres.svg" alt="PostgreSQL" class="icon"/></td>
+    <td><img src="./assets/tech/sequalize.svg" alt="Sequelize" class="icon"/></td>
+    <td><img src="./assets/tech/redis.svg" alt="Redis" class="icon"/></td>
+    <td><img src="./assets/tech/sqlite.svg" alt="SQLite" class="icon"/></td>
+    <td><img src="./assets/tech/supabase.svg" alt="Supabase" class="icon"/></td>
+    <!-- Cloud & DevOps -->
+    <td><img src="./assets/tech/apache.png" alt="Apache" class="icon"/></td>
+  </tr>
+  <tr>
+    <!-- Cloud & DevOps (continued) -->
+    <td><img src="./assets/tech/aws.svg" alt="AWS" class="icon"/></td>
+    <td><img src="./assets/tech/azure.svg" alt="Azure" class="icon"/></td>
+    <td><img src="./assets/tech/cloudflare.svg" alt="Cloudflare" class="icon"/></td>
+    <td><img src="./assets/tech/digitalocean.png" alt="Digital Ocean" class="icon"/></td>
+    <td><img src="./assets/tech/docker.svg" alt="Docker" class="icon"/></td>
+    <td><img src="./assets/tech/firebase.svg" alt="Firebase" class="icon"/></td>
+    <td><img src="./assets/tech/netlify.svg" alt="Netlify" class="icon"/></td>
+    <td><img src="./assets/tech/nginx.png" alt="Nginx" class="icon"/></td>
+    <td><img src="./assets/tech/rabbitmq.svg" alt="RabbitMQ" class="icon"/></td>
+  </tr>
+  <tr>
+    <!-- Cloud & DevOps (continued) -->
+    <td><img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" class="icon"/></td>
+    <td><img src="./assets/tech/vercel.svg" alt="Vercel" class="icon"/></td>
+    <!-- API & Tools -->
+    <td><img src="./assets/tech/graphql.svg" alt="GraphQL" class="icon"/></td>
+    <td><img src="./assets/tech/jwt.png" alt="JWT" class="icon"/></td>
+    <td><img src="./assets/tech/postman.svg" alt="Postman" class="icon"/></td>
+    <td><img src="./assets/tech/redoc.jpeg" alt="Redoc" class="icon"/></td>
+    <td><img src="./assets/tech/swagger.jpeg" alt="Swagger" class="icon"/></td>
+    <!-- Version Control -->
+    <td><img src="./assets/tech/bitbucket.svg" alt="BitBucket" class="icon"/></td>
+    <td><img src="./assets/tech/git.svg" alt="Git" class="icon"/></td>
+  </tr>
+  <tr>
+    <!-- Version Control (continued) -->
+    <td><img src="./assets/tech/github.svg" alt="GitHub" class="icon"/></td>
+    <td><img src="./assets/tech/gitlab.svg" alt="GitLab" class="icon"/></td>
+    <!-- Build Tools -->
+    <td><img src="./assets/tech/npm.svg" alt="npm" class="icon"/></td>
+    <td><img src="./assets/tech/prettier.svg" alt="Prettier" class="icon"/></td>
+    <td><img src="./assets/tech/webpack.svg" alt="Webpack" class="icon"/></td>
+    <td><img src="./assets/tech/yarn.svg" alt="Yarn" class="icon"/></td>
+    <!-- Design & Prototyping -->
+    <td><img src="./assets/tech/adalo.png" alt="Adalo" class="icon"/></td>
+    <td><img src="./assets/tech/blender.svg" alt="Blender" class="icon"/></td>
+    <td><img src="./assets/tech/canva.png" alt="Canva" class="icon"/></td>
+  </tr>
+  <tr>
+    <!-- Design & Prototyping (continued) -->
+    <td><img src="./assets/tech/codepen.svg" alt="CodePen" class="icon"/></td>
+    <td><img src="./assets/tech/figma.svg" alt="Figma" class="icon"/></td>
+    <td><img src="./assets/tech/invision.png" alt="Invision" class="icon"/></td>
+    <td><img src="./assets/tech/photopea.png" alt="Photopea" class="icon"/></td>
+    <!-- Software & Project Management -->
+    <td><img src="./assets/tech/jira.png" alt="Jira" class="icon"/></td>
+    <td><img src="./assets/tech/subline.svg" alt="Sublime Text" class="icon"/></td>
+    <td><img src="./assets/tech/vscode.svg" alt="VS Code" class="icon"/></td>
+    <td><img src="./assets/tech/web3.jpg" alt="Web3" class="icon"/></td>
+    <td></td> <!-- Empty cell to fill the row -->
+  </tr>
+</table>
+
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=contact2mayurkukadiya&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=contact2mayurkukadiya&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=contact2mayurkukadiya&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=contact2mayurkukadiya&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
+<!-- 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=contact2mayurkukadiya&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=contact2mayurkukadiya&icon=1&color=3)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=contact2mayurkukadiya&limit=5&theme=default_repocard&combine_all_yearly_contributions=true) -->
