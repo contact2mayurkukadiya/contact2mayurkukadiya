@@ -14,7 +14,7 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
 
 
 ## ⚙️ Tools and Technologies:
-<table border="0" cellspacing="10" cellpadding="5" width="100%">
+<table border="0" cellspacing="10" cellpadding="5" width="100%" style="margin: 15px 0px;">
   <tr valign="bottom">
     <!-- Languages -->
     <td align="center">
