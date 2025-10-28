@@ -14,112 +14,398 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
 
 
 ## ⚙️ Tools and Technologies:
+<style>
+    /* General table styling for a clean look */
+    .tech-table {
+        width: 500px;
+        margin: 20px 0;
+        font-family: sans-serif;
+        border: none;
+    }
 
-<table class="tech-table" border="1">
-  <!-- Icons are sorted by category and flow across the grid -->
-  <tr>
+    .tech-table tr {
+        border: none;
+    }
+    
+    /* Styling for the table cells containing icons */
+    .tech-table td {
+        padding: 0px 3px;
+        margin: 0px;
+        border: none;
+    }
+
+    /* The core icon styling */
+    .icon {
+        /* 1. Set a uniform size for all icons and maintain aspect ratio */
+        width: 50px;
+        height: 50px;
+        object-fit: contain; 
+        border-radius: 10px;
+        overflow: hidden;
+
+        /* 2. Set the default state: grayscale and scaled down */
+        transform: translateY(3px) scale(0.8);
+        filter: grayscale(1);
+        opacity: 0.3;
+        
+        /* 3. Define the transition for entering the hover state (0s delay) */
+        transition: transform 0.1s ease-out, filter 0.1s ease-out, opacity 0.1s ease-out;
+        transition-delay: 0s;
+    }
+
+    /* The hover state with a "pop" effect */
+    .icon:hover {
+        transform: scale(1.1); 
+        filter: grayscale(0);
+        opacity: 1;
+        transition-delay: 0s; /* Ensure instant reaction on hover */
+    }
+
+    /* 4. Define the transition for exiting the hover state (5s delay) */
+    .icon {
+      transition: transform 0.1s ease-out 5s, filter 0.1s ease-out 5s, opacity 0.1s ease-out 5s;
+      
+    }
+</style>
+
+<!-- 
+  - border="0" removes all table borders.
+  - cellspacing="10" adds space between cells.
+  - cellpadding="5" adds padding inside cells.
+-->
+<table border="0" cellspacing="10" cellpadding="5">
+  <!-- 
+    - valign="bottom" aligns the content of all cells in this row to the bottom,
+      ensuring the text labels share the same baseline.
+  -->
+  <tr valign="bottom">
     <!-- Languages -->
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/tech/css.svg" alt="CSS" class="icon"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/tech/html.svg" alt="HTML" class="icon"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/tech/js.svg" alt="JavaScript" class="icon"/></a></td>
-    <td><a href="https://www.python.org"><img src="./assets/tech/python.svg" alt="Python" class="icon"/></a></td>
-    <td><a href="https://www.typescriptlang.org"><img src="./assets/tech/ts.svg" alt="TypeScript" class="icon"/></a></td>
-    <td><img src="./assets/tech/svg.svg" alt="SVG" class="icon"/></td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="./assets/tech/css.svg" alt="CSS" width="50" height="50"/>
+        <br>CSS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="./assets/tech/html.svg" alt="HTML" width="50" height="50"/>
+        <br>HTML
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="./assets/tech/js.svg" alt="JavaScript" width="50" height="50"/>
+        <br>JavaScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org">
+        <img src="./assets/tech/python.svg" alt="Python" width="50" height="50"/>
+        <br>Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org">
+        <img src="./assets/tech/ts.svg" alt="TypeScript" width="50" height="50"/>
+        <br>TypeScript
+      </a>
+    </td>
+    <td align="center">
+      <img src="./assets/tech/svg.svg" alt="SVG" width="50" height="50"/>
+      <br>SVG
+    </td>
     <!-- Frontend -->
-    <td><a href="https://angular.dev"><img src="./assets/tech/angular.svg" alt="Angular" class="icon"/></a></td>
-    <td><img src="./assets/tech/react.svg" alt="React" class="icon"/></td>
-    <td><img src="./assets/tech/ionic.png" alt="Ionic" class="icon"/></td>
+    <td align="center">
+      <a href="https://angular.dev">
+        <img src="./assets/tech/angular.svg" alt="Angular" width="50" height="50"/>
+        <br>Angular
+      </a>
+    </td>
+    <td align="center">
+      <img src="./assets/tech/react.svg" alt="React" width="50" height="50"/>
+      <br>React
+    </td>
+    <td align="center">
+      <img src="./assets/tech/ionic.png" alt="Ionic" width="50" height="50"/>
+      <br>Ionic
+    </td>
   </tr>
-  <tr>
+  <tr valign="bottom">
     <!-- Frontend (continued) -->
-    <td><img src="./assets/tech/ant-design.svg" alt="Ant Design" class="icon"/></td>
-    <td><img src="./assets/tech/daisyUi.svg" alt="DaisyUI" class="icon"/></td>
-    <td><img src="./assets/tech/devexpress.png" alt="DevExpress" class="icon"/></td>
-    <td><img src="./assets/tech/kendo.png" alt="Kendo UI" class="icon"/></td>
-    <td><img src="./assets/tech/bootstrap.svg" alt="Bootstrap" class="icon"/></td>
-    <td><img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" class="icon"/></td>
-    <td><img src="./assets/tech/jquery.svg" alt="jQuery" class="icon"/></td>
-    <td><img src="./assets/tech/rxjs.jpg" alt="RxJS" class="icon"/></td>
-    <td><img src="./assets/tech/p5js.svg" alt="p5.js" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/ant-design.svg" alt="Ant Design" width="50" height="50"/>
+      <br>Ant Design
+    </td>
+    <td align="center">
+      <img src="./assets/tech/daisyUi.svg" alt="DaisyUI" width="50" height="50"/>
+      <br>DaisyUI
+    </td>
+    <td align="center">
+      <img src="./assets/tech/devexpress.png" alt="DevExpress" width="50" height="50"/>
+      <br>DevExpress
+    </td>
+    <td align="center">
+      <img src="./assets/tech/kendo.png" alt="Kendo UI" width="50" height="50"/>
+      <br>Kendo UI
+    </td>
+    <td align="center">
+      <img src="./assets/tech/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" width="50" height="50"/>
+      <br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="./assets/tech/jquery.svg" alt="jQuery" width="50" height="50"/>
+      <br>jQuery
+    </td>
+    <td align="center">
+      <img src="./assets/tech/rxjs.jpg" alt="RxJS" width="50" height="50"/>
+      <br>RxJS
+    </td>
+    <td align="center">
+      <img src="./assets/tech/p5js.svg" alt="p5.js" width="50" height="50"/>
+      <br>p5.js
+    </td>
   </tr>
-  <tr>
+  <tr valign="bottom">
     <!-- Frontend (continued) -->
-    <td><img src="./assets/tech/chartjs.png" alt="Chart.js" class="icon"/></td>
-    <td><img src="./assets/tech/threejs.svg" alt="Three.js" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/chartjs.png" alt="Chart.js" width="50" height="50"/>
+      <br>Chart.js
+    </td>
+    <td align="center">
+      <img src="./assets/tech/threejs.svg" alt="Three.js" width="50" height="50"/>
+      <br>Three.js
+    </td>
     <!-- Backend -->
-    <td><img src="./assets/tech/nodejs.svg" alt="Node.js" class="icon"/></td>
-    <td><img src="./assets/tech/nestJS.svg" alt="NestJS" class="icon"/></td>
-    <td><img src="./assets/tech/express.svg" alt="Express" class="icon"/></td>
-    <td><img src="./assets/tech/automapper.svg" alt="AutoMapper" class="icon"/></td>
-    <td><img src="./assets/tech/ejs.jpg" alt="EJS" class="icon"/></td>
-    <td><img src="./assets/tech/validation.svg" alt="FluentValidation" class="icon"/></td>
-    <td><img src="./assets/tech/nodemon.png" alt="Nodemon" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/nodejs.svg" alt="Node.js" width="50" height="50"/>
+      <br>Node.js
+    </td>
+    <td align="center">
+      <img src="./assets/tech/nestJS.svg" alt="NestJS" width="50" height="50"/>
+      <br>NestJS
+    </td>
+    <td align="center">
+      <img src="./assets/tech/express.svg" alt="Express" width="50" height="50"/>
+      <br>Express
+    </td>
+    <td align="center">
+      <img src="./assets/tech/automapper.svg" alt="AutoMapper" width="50" height="50"/>
+      <br>AutoMapper
+    </td>
+    <td align="center">
+      <img src="./assets/tech/ejs.jpg" alt="EJS" width="50" height="50"/>
+      <br>EJS
+    </td>
+    <td align="center">
+      <img src="./assets/tech/validation.svg" alt="FluentValidation" width="50" height="50"/>
+      <br>FluentValidation
+    </td>
+    <td align="center">
+      <img src="./assets/tech/nodemon.png" alt="Nodemon" width="50" height="50"/>
+      <br>Nodemon
+    </td>
   </tr>
-  <tr>
+  <tr valign="bottom">
     <!-- Backend (continued) -->
-    <td><img src="./assets/tech/socketio.png" alt="Socket.io" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/socketio.png" alt="Socket.io" width="50" height="50"/>
+      <br>Socket.io
+    </td>
     <!-- Databases & Caching -->
-    <td><img src="./assets/tech/mongodb.svg" alt="MongoDB" class="icon"/></td>
-    <td><img src="./assets/tech/mysql.svg" alt="MySQL" class="icon"/></td>
-    <td><img src="./assets/tech/postgres.svg" alt="PostgreSQL" class="icon"/></td>
-    <td><img src="./assets/tech/sequalize.svg" alt="Sequelize" class="icon"/></td>
-    <td><img src="./assets/tech/redis.svg" alt="Redis" class="icon"/></td>
-    <td><img src="./assets/tech/sqlite.svg" alt="SQLite" class="icon"/></td>
-    <td><img src="./assets/tech/supabase.svg" alt="Supabase" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/mongodb.svg" alt="MongoDB" width="50" height="50"/>
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img src="./assets/tech/mysql.svg" alt="MySQL" width="50" height="50"/>
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="./assets/tech/postgres.svg" alt="PostgreSQL" width="50" height="50"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="./assets/tech/sequalize.svg" alt="Sequelize" width="50" height="50"/>
+      <br>Sequelize
+    </td>
+    <td align="center">
+      <img src="./assets/tech/redis.svg" alt="Redis" width="50" height="50"/>
+      <br>Redis
+    </td>
+    <td align="center">
+      <img src="./assets/tech/sqlite.svg" alt="SQLite" width="50" height="50"/>
+      <br>SQLite
+    </td>
+    <td align="center">
+      <img src="./assets/tech/supabase.svg" alt="Supabase" width="50" height="50"/>
+      <br>Supabase
+    </td>
     <!-- Cloud & DevOps -->
-    <td><img src="./assets/tech/apache.png" alt="Apache" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/apache.png" alt="Apache" width="50" height="50"/>
+      <br>Apache
+    </td>
   </tr>
-  <tr>
+  <tr valign="bottom">
     <!-- Cloud & DevOps (continued) -->
-    <td><img src="./assets/tech/aws.svg" alt="AWS" class="icon"/></td>
-    <td><img src="./assets/tech/azure.svg" alt="Azure" class="icon"/></td>
-    <td><img src="./assets/tech/cloudflare.svg" alt="Cloudflare" class="icon"/></td>
-    <td><img src="./assets/tech/digitalocean.png" alt="Digital Ocean" class="icon"/></td>
-    <td><img src="./assets/tech/docker.svg" alt="Docker" class="icon"/></td>
-    <td><img src="./assets/tech/firebase.svg" alt="Firebase" class="icon"/></td>
-    <td><img src="./assets/tech/netlify.svg" alt="Netlify" class="icon"/></td>
-    <td><img src="./assets/tech/nginx.png" alt="Nginx" class="icon"/></td>
-    <td><img src="./assets/tech/rabbitmq.svg" alt="RabbitMQ" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/aws.svg" alt="AWS" width="50" height="50"/>
+      <br>AWS
+    </td>
+    <td align="center">
+      <img src="./assets/tech/azure.svg" alt="Azure" width="50" height="50"/>
+      <br>Azure
+    </td>
+    <td align="center">
+      <img src="./assets/tech/cloudflare.svg" alt="Cloudflare" width="50" height="50"/>
+      <br>Cloudflare
+    </td>
+    <td align="center">
+      <img src="./assets/tech/digitalocean.png" alt="Digital Ocean" width="50" height="50"/>
+      <br>Digital Ocean
+    </td>
+    <td align="center">
+      <img src="./assets/tech/docker.svg" alt="Docker" width="50" height="50"/>
+      <br>Docker
+    </td>
+    <td align="center">
+      <img src="./assets/tech/firebase.svg" alt="Firebase" width="50" height="50"/>
+      <br>Firebase
+    </td>
+    <td align="center">
+      <img src="./assets/tech/netlify.svg" alt="Netlify" width="50" height="50"/>
+      <br>Netlify
+    </td>
+    <td align="center">
+      <img src="./assets/tech/nginx.png" alt="Nginx" width="50" height="50"/>
+      <br>Nginx
+    </td>
+    <td align="center">
+      <img src="./assets/tech/rabbitmq.svg" alt="RabbitMQ" width="50" height="50"/>
+      <br>RabbitMQ
+    </td>
   </tr>
-  <tr>
+  <tr valign="bottom">
     <!-- Cloud & DevOps (continued) -->
-    <td><img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" class="icon"/></td>
-    <td><img src="./assets/tech/vercel.svg" alt="Vercel" class="icon"/></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" width="50" height="50"/>
+      <br>Sentry
+    </td>
+    <td align="center">
+      <img src="./assets/tech/vercel.svg" alt="Vercel" width="50" height="50"/>
+      <br>Vercel
+    </td>
     <!-- API & Tools -->
-    <td><img src="./assets/tech/graphql.svg" alt="GraphQL" class="icon"/></td>
-    <td><img src="./assets/tech/jwt.png" alt="JWT" class="icon"/></td>
-    <td><img src="./assets/tech/postman.svg" alt="Postman" class="icon"/></td>
-    <td><img src="./assets/tech/redoc.jpeg" alt="Redoc" class="icon"/></td>
-    <td><img src="./assets/tech/swagger.jpeg" alt="Swagger" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/graphql.svg" alt="GraphQL" width="50" height="50"/>
+      <br>GraphQL
+    </td>
+    <td align="center">
+      <img src="./assets/tech/jwt.png" alt="JWT" width="50" height="50"/>
+      <br>JWT
+    </td>
+    <td align="center">
+      <img src="./assets/tech/postman.svg" alt="Postman" width="50" height="50"/>
+      <br>Postman
+    </td>
+    <td align="center">
+      <img src="./assets/tech/redoc.jpeg" alt="Redoc" width="50" height="50"/>
+      <br>Redoc
+    </td>
+    <td align="center">
+      <img src="./assets/tech/swagger.jpeg" alt="Swagger" width="50" height="50"/>
+      <br>Swagger
+    </td>
     <!-- Version Control -->
-    <td><img src="./assets/tech/bitbucket.svg" alt="BitBucket" class="icon"/></td>
-    <td><img src="./assets/tech/git.svg" alt="Git" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/bitbucket.svg" alt="BitBucket" width="50" height="50"/>
+      <br>BitBucket
+    </td>
+    <td align="center">
+      <img src="./assets/tech/git.svg" alt="Git" width="50" height="50"/>
+      <br>Git
+    </td>
   </tr>
-  <tr>
+  <tr valign="bottom">
     <!-- Version Control (continued) -->
-    <td><img src="./assets/tech/github.svg" alt="GitHub" class="icon"/></td>
-    <td><img src="./assets/tech/gitlab.svg" alt="GitLab" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/github.svg" alt="GitHub" width="50" height="50"/>
+      <br>GitHub
+    </td>
+    <td align="center">
+      <img src="./assets/tech/gitlab.svg" alt="GitLab" width="50" height="50"/>
+      <br>GitLab
+    </td>
     <!-- Build Tools -->
-    <td><img src="./assets/tech/npm.svg" alt="npm" class="icon"/></td>
-    <td><img src="./assets/tech/prettier.svg" alt="Prettier" class="icon"/></td>
-    <td><img src="./assets/tech/webpack.svg" alt="Webpack" class="icon"/></td>
-    <td><img src="./assets/tech/yarn.svg" alt="Yarn" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/npm.svg" alt="npm" width="50" height="50"/>
+      <br>npm
+    </td>
+    <td align="center">
+      <img src="./assets/tech/prettier.svg" alt="Prettier" width="50" height="50"/>
+      <br>Prettier
+    </td>
+    <td align="center">
+      <img src="./assets/tech/webpack.svg" alt="Webpack" width="50" height="50"/>
+      <br>Webpack
+    </td>
+    <td align="center">
+      <img src="./assets/tech/yarn.svg" alt="Yarn" width="50" height="50"/>
+      <br>Yarn
+    </td>
     <!-- Design & Prototyping -->
-    <td><img src="./assets/tech/adalo.png" alt="Adalo" class="icon"/></td>
-    <td><img src="./assets/tech/blender.svg" alt="Blender" class="icon"/></td>
-    <td><img src="./assets/tech/canva.png" alt="Canva" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/adalo.png" alt="Adalo" width="50" height="50"/>
+      <br>Adalo
+    </td>
+    <td align="center">
+      <img src="./assets/tech/blender.svg" alt="Blender" width="50" height="50"/>
+      <br>Blender
+    </td>
+    <td align="center">
+      <img src="./assets/tech/canva.png" alt="Canva" width="50" height="50"/>
+      <br>Canva
+    </td>
   </tr>
-  <tr>
+  <tr valign="bottom">
     <!-- Design & Prototyping (continued) -->
-    <td><img src="./assets/tech/codepen.svg" alt="CodePen" class="icon"/></td>
-    <td><img src="./assets/tech/figma.svg" alt="Figma" class="icon"/></td>
-    <td><img src="./assets/tech/invision.png" alt="Invision" class="icon"/></td>
-    <td><img src="./assets/tech/photopea.png" alt="Photopea" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/codepen.svg" alt="CodePen" width="50" height="50"/>
+      <br>CodePen
+    </td>
+    <td align="center">
+      <img src="./assets/tech/figma.svg" alt="Figma" width="50" height="50"/>
+      <br>Figma
+    </td>
+    <td align="center">
+      <img src="./assets/tech/invision.png" alt="Invision" width="50" height="50"/>
+      <br>Invision
+    </td>
+    <td align="center">
+      <img src="./assets/tech/photopea.png" alt="Photopea" width="50" height="50"/>
+      <br>Photopea
+    </td>
     <!-- Software & Project Management -->
-    <td><img src="./assets/tech/jira.png" alt="Jira" class="icon"/></td>
-    <td><img src="./assets/tech/subline.svg" alt="Sublime Text" class="icon"/></td>
-    <td><img src="./assets/tech/vscode.svg" alt="VS Code" class="icon"/></td>
-    <td><img src="./assets/tech/web3.jpg" alt="Web3" class="icon"/></td>
+    <td align="center">
+      <img src="./assets/tech/jira.png" alt="Jira" width="50" height="50"/>
+      <br>Jira
+    </td>
+    <td align="center">
+      <img src="./assets/tech/subline.svg" alt="Sublime Text" width="50" height="50"/>
+      <br>Sublime Text
+    </td>
+    <td align="center">
+      <img src="./assets/tech/vscode.svg" alt="VS Code" width="50" height="50"/>
+      <br>VS Code
+    </td>
+    <td align="center">
+      <img src="./assets/tech/web3.jpg" alt="Web3" width="50" height="50"/>
+      <br>Web3
+    </td>
     <td></td> <!-- Empty cell to fill the row -->
   </tr>
 </table>
