@@ -472,13 +472,15 @@ As a problem-solver with 7 years in the IT field, I specialize in building end-t
   </tr>
 </table>
 
-## 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=contact2mayurkukadiya&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=contact2mayurkukadiya&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=contact2mayurkukadiya&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📈 Stats:
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=contact2mayurkukadiya&theme=vue-dark&show_icons=true&border_radius=15" />
+
+<img style="margin:0.5rem" src="https://nirzak-streak-stats.vercel.app?user=contact2mayurkukadiya&theme=vue-dark&hide_border=true&border_radius=15" alt="GitHub Streak" />
+
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contact2mayurkukadiya&hide=css&theme=vue-dark&border_radius=15" />
 
 ## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=contact2mayurkukadiya&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=contact2mayurkukadiya&title=-Followers,-Stars,-Reviews&theme=onestar&margin-w=30&margin-h=30&no-frame=false&no-bg=false" />
 
 <!-- 
 ### 🔝 Top Contributed Repo
