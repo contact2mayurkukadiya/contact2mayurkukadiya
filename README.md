@@ -473,11 +473,11 @@ As a problem-solver with 8 years in the IT field, I specialize in building end-t
 </table>
 
 ## 📈 Stats:
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=contact2mayurkukadiya&theme=vue-dark&show_icons=true&border_radius=15" />
+<!-- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=contact2mayurkukadiya&theme=vue-dark&show_icons=true&border_radius=15" /> -->
 
 <img style="margin:0.5rem" src="https://nirzak-streak-stats.vercel.app?user=contact2mayurkukadiya&theme=vue-dark&hide_border=true&border_radius=15" alt="GitHub Streak" />
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contact2mayurkukadiya&hide=css&theme=vue-dark&border_radius=15" />
+<!-- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contact2mayurkukadiya&hide=css&theme=vue-dark&border_radius=15" /> -->
 
 <!-- ## 🏆 Achievements
 <img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=contact2mayurkukadiya&title=-Followers,-Stars,-Reviews&theme=onestar&margin-w=30&margin-h=30&no-frame=false&no-bg=false" /> -->
