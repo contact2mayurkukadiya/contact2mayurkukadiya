@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-As a problem-solver with 8 years in the IT field, I specialize in building end-to-end solutions. My technical toolkit includes Angular, Node.js, NestJS, and a suite of AWS services. I have a proven track record of integrating payment gateways like Stripe and PayPal, leveraging analytics, and building everything from custom libraries to complex microservice-based systems.
+As a problem-solver with 8 years in the IT field, I specialize in building end-to-end solutions. My technical toolkit includes Angular, React.JS, Node.js, NestJS, and a suite of AWS services. I have a proven track record of integrating payment gateways like Stripe and PayPal, leveraging analytics, and building everything from custom libraries to complex microservice-based systems.
 
 
 ## 🌐 Socials:
